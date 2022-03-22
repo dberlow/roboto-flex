@@ -2,7 +2,7 @@
 <glyph name="dieresistonoscomb" format="2">
   <advance width="1114"/>
   <outline>
-    <component base="dieresistonos"/>
+    <component base="dieresistonos" yOffset="-12"/>
   </outline>
   <lib>
     <dict>
