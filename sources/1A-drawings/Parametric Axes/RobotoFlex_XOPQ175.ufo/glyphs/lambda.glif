@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lambda" format="2">
-  <advance width="961"/>
+  <advance width="1121"/>
   <unicode hex="03BB"/>
   <outline>
     <contour>
@@ -16,11 +16,11 @@
       <point x="40" y="1536" type="line"/>
       <point x="68" y="1546"/>
       <point x="137" y="1556"/>
-      <point x="172" y="1556" type="qcurve" smooth="yes"/>
-      <point x="296" y="1556"/>
-      <point x="443" y="1414"/>
-      <point x="502" y="1252" type="qcurve" smooth="yes"/>
-      <point x="961" y="0" type="line"/>
+      <point x="271" y="1556" type="qcurve" smooth="yes"/>
+      <point x="415" y="1556"/>
+      <point x="604" y="1415"/>
+      <point x="662" y="1252" type="qcurve" smooth="yes"/>
+      <point x="1121" y="0" type="line"/>
       <point x="761" y="0" type="line"/>
       <point x="539" y="637" type="line" smooth="yes"/>
       <point x="519" y="693"/>
