@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eth" format="2">
-  <advance width="891"/>
+  <advance width="849"/>
   <unicode hex="00F0"/>
   <outline>
     <contour>
@@ -40,10 +40,10 @@
       <point x="452" y="1421"/>
     </contour>
     <contour>
-      <point x="806" y="1427" type="line"/>
+      <point x="775" y="1421" type="line"/>
       <point x="269" y="1061" type="line"/>
       <point x="186" y="1181" type="line"/>
-      <point x="723" y="1546" type="line"/>
+      <point x="692" y="1540" type="line"/>
     </contour>
   </outline>
 </glyph>
