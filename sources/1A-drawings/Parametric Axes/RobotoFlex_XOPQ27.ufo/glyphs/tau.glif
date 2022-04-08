@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tau" format="2">
-  <advance width="820"/>
+  <advance width="770"/>
   <unicode hex="03C4"/>
   <outline>
     <contour>
@@ -11,8 +11,8 @@
     </contour>
     <contour>
       <point x="498" y="-30" type="qcurve" smooth="yes"/>
-      <point x="406.0" y="-30"/>
-      <point x="328.0" y="119"/>
+      <point x="406" y="-30"/>
+      <point x="328" y="119"/>
       <point x="328" y="260" type="qcurve" smooth="yes"/>
       <point x="328" y="971" type="line"/>
       <point x="382" y="971" type="line"/>
