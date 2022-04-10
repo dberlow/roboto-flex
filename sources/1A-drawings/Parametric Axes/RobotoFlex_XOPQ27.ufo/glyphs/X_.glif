@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="X" format="2">
-  <advance width="1181"/>
+  <advance width="1222"/>
   <unicode hex="0058"/>
+  <anchor x="611.0" y="0" name="bottom"/>
+  <anchor x="611.0" y="1456" name="top"/>
   <outline>
     <contour>
       <point x="25" y="0" type="line"/>
@@ -14,14 +16,14 @@
       <point x="237" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="90" y="1456" type="line"/>
-      <point x="176" y="1456" type="line"/>
-      <point x="593" y="806" type="line"/>
-      <point x="623" y="806" type="line"/>
-      <point x="1157" y="0" type="line"/>
-      <point x="1071" y="0" type="line"/>
-      <point x="639" y="670" type="line"/>
-      <point x="609" y="670" type="line"/>
+      <point x="120" y="1456" type="line"/>
+      <point x="196" y="1456" type="line"/>
+      <point x="629" y="768" type="line"/>
+      <point x="630" y="768" type="line"/>
+      <point x="1128" y="0" type="line"/>
+      <point x="1051" y="0" type="line"/>
+      <point x="597" y="706" type="line"/>
+      <point x="597" y="706" type="line"/>
     </contour>
   </outline>
 </glyph>

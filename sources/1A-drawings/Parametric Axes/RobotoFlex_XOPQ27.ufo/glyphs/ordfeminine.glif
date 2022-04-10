@@ -53,7 +53,7 @@
       <point x="195" y="969"/>
       <point x="285" y="1042"/>
       <point x="375" y="1042" type="qcurve" smooth="yes"/>
-      <point x="532" y="1042" type="line"/>
+      <point x="533" y="1042" type="line"/>
     </contour>
   </outline>
   <lib>

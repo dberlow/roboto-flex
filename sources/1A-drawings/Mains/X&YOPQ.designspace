@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="XOPQ" name="XOPQ" minimum="27" maximum="175" default="96">
+      <labelname xml:lang="en">MainStem</labelname>
+    </axis>
+    <axis tag="YOPQ" name="YOPQ" minimum="25" maximum="135" default="79">
+      <labelname xml:lang="en">SecondStem</labelname>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="../Parametric Axes/RobotoFlex_YOPQ135.ufo" familyname="Roboto Flex" stylename="YOPQ135">
+      <location>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="135"/>
+      </location>
+    </source>
+    <source filename="../Parametric Axes/RobotoFlex_YOPQ25.ufo" familyname="Roboto Flex" stylename="YOPQ25">
+      <location>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="25"/>
+      </location>
+    </source>
+    <source filename="../Parametric Axes/RobotoFlex_XOPQ175.ufo" familyname="Roboto Flex" stylename="XOPQ175">
+      <location>
+        <dimension name="XOPQ" xvalue="175"/>
+        <dimension name="YOPQ" xvalue="79"/>
+      </location>
+    </source>
+    <source filename="../Parametric Axes/RobotoFlex_XOPQ27.ufo" familyname="Roboto Flex" stylename="XOPQ27">
+      <location>
+        <dimension name="XOPQ" xvalue="27"/>
+        <dimension name="YOPQ" xvalue="79"/>
+      </location>
+    </source>
+    <source filename="RobotoFlex_wght400.ufo" familyname="Roboto Flex" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+      </location>
+    </source>
+  </sources>
+</designspace>
