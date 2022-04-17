@@ -48,10 +48,10 @@
       <point x="664" y="1332"/>
       <point x="501" y="1332" type="qcurve" smooth="yes"/>
       <point x="339" y="1332"/>
-      <point x="151" y="1085"/>
+      <point x="151" y="1095.0"/>
       <point x="151" y="844" type="qcurve" smooth="yes"/>
       <point x="151" y="592" type="line" smooth="yes"/>
-      <point x="151" y="369"/>
+      <point x="151" y="358.0"/>
       <point x="349" y="114"/>
       <point x="511" y="114" type="qcurve" smooth="yes"/>
       <point x="674" y="114"/>

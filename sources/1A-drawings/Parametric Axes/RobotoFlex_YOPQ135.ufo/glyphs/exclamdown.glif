@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="exclamdown" format="2">
-  <advance width="620"/>
+  <advance width="788"/>
   <unicode hex="00A1"/>
   <outline>
     <contour>
-      <point x="484" y="1010" type="qcurve" smooth="yes"/>
-      <point x="484" y="941"/>
-      <point x="394" y="845"/>
-      <point x="310" y="845" type="qcurve" smooth="yes"/>
-      <point x="226" y="845"/>
-      <point x="136" y="941"/>
-      <point x="136" y="1010" type="qcurve" smooth="yes"/>
-      <point x="136" y="1078"/>
-      <point x="226" y="1174"/>
-      <point x="310" y="1174" type="qcurve" smooth="yes"/>
-      <point x="394" y="1174"/>
-      <point x="484" y="1078"/>
+      <point x="602" y="970" type="qcurve" smooth="yes"/>
+      <point x="602" y="883"/>
+      <point x="495" y="762"/>
+      <point x="394" y="762" type="qcurve" smooth="yes"/>
+      <point x="293" y="762"/>
+      <point x="186" y="883"/>
+      <point x="186" y="970" type="qcurve" smooth="yes"/>
+      <point x="186" y="1056"/>
+      <point x="293" y="1177"/>
+      <point x="394" y="1177" type="qcurve" smooth="yes"/>
+      <point x="495" y="1177"/>
+      <point x="602" y="1056"/>
     </contour>
     <contour>
-      <point x="400" y="740" type="line"/>
-      <point x="407" y="-306" type="line"/>
-      <point x="213" y="-306" type="line"/>
-      <point x="218" y="740" type="line"/>
+      <point x="484" y="690" type="line"/>
+      <point x="491" y="-306" type="line"/>
+      <point x="297" y="-306" type="line"/>
+      <point x="302" y="690" type="line"/>
     </contour>
   </outline>
 </glyph>
