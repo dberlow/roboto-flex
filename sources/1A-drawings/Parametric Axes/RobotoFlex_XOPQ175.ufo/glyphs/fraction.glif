@@ -6,10 +6,10 @@
   <guideline x="0" y="555" angle="0" identifier="0lx51aIE0d"/>
   <outline>
     <contour>
-      <point x="789" y="1387" type="line"/>
-      <point x="-132" y="-73" type="line"/>
-      <point x="-345" y="73" type="line"/>
-      <point x="576" y="1533" type="line"/>
+      <point x="754" y="1406" type="line"/>
+      <point x="-167" y="-54" type="line"/>
+      <point x="-314" y="53" type="line"/>
+      <point x="607" y="1513" type="line"/>
     </contour>
   </outline>
   <lib>

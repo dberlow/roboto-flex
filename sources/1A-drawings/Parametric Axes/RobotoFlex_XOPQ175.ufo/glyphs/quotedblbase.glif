@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotedblbase" format="2">
-  <advance width="1023"/>
+  <advance width="1083"/>
   <unicode hex="201E"/>
   <outline>
     <contour>
-      <point x="388" y="220" type="line"/>
-      <point x="388" y="60" type="line" smooth="yes"/>
-      <point x="388" y="-72"/>
+      <point x="418" y="220" type="line"/>
+      <point x="418" y="60" type="line" smooth="yes"/>
+      <point x="418" y="-72"/>
       <point x="244" y="-262"/>
       <point x="138" y="-307" type="qcurve"/>
       <point x="39" y="-234" type="line"/>
-      <point x="67" y="-171"/>
-      <point x="82" y="-30"/>
-      <point x="82" y="60" type="qcurve" smooth="yes"/>
-      <point x="82" y="220" type="line"/>
+      <point x="51" y="-175"/>
+      <point x="56" y="-30"/>
+      <point x="62" y="60" type="qcurve" smooth="yes"/>
+      <point x="62" y="220" type="line"/>
     </contour>
     <contour>
-      <point x="931" y="220" type="line"/>
-      <point x="931" y="60" type="line" smooth="yes"/>
-      <point x="931" y="-72"/>
-      <point x="787" y="-262"/>
-      <point x="681" y="-307" type="qcurve"/>
-      <point x="582" y="-234" type="line"/>
-      <point x="610" y="-171"/>
-      <point x="625" y="-30"/>
-      <point x="625" y="60" type="qcurve" smooth="yes"/>
-      <point x="625" y="220" type="line"/>
+      <point x="991" y="220" type="line"/>
+      <point x="991" y="60" type="line" smooth="yes"/>
+      <point x="991" y="-72"/>
+      <point x="817" y="-262"/>
+      <point x="711" y="-307" type="qcurve"/>
+      <point x="612" y="-234" type="line"/>
+      <point x="628" y="-172"/>
+      <point x="635" y="-30"/>
+      <point x="635" y="60" type="qcurve" smooth="yes"/>
+      <point x="635" y="220" type="line"/>
     </contour>
   </outline>
 </glyph>
