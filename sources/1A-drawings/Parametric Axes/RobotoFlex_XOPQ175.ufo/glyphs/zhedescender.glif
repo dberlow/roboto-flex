@@ -6,7 +6,7 @@
     <contour>
       <point x="1444" y="0" type="line"/>
       <point x="1064" y="465" type="line"/>
-      <point x="1334" y="591" type="line"/>
+      <point x="1291" y="639" type="line"/>
       <point x="1731" y="113" type="line"/>
       <point x="1731" y="0" type="line"/>
     </contour>
@@ -35,14 +35,14 @@
     <contour>
       <point x="351" y="0" type="line"/>
       <point x="-25" y="0" type="line"/>
-      <point x="466" y="591" type="line"/>
+      <point x="507" y="648" type="line"/>
       <point x="731" y="465" type="line"/>
     </contour>
     <contour>
       <point x="820" y="610" type="line"/>
       <point x="820" y="465" type="line"/>
-      <point x="582" y="465" type="line"/>
-      <point x="100" y="1052" type="line"/>
+      <point x="572" y="465" type="line"/>
+      <point x="90" y="1052" type="line"/>
       <point x="316" y="1052" type="line"/>
       <point x="671" y="610" type="line"/>
     </contour>
