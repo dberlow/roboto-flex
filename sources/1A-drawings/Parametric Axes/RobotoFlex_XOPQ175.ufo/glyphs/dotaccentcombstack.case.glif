@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccentcombstack.case" format="2">
-  <advance width="1024"/>
+  <advance width="1100"/>
   <outline>
     <contour>
-      <point x="391" y="1792" type="qcurve" smooth="yes"/>
-      <point x="391" y="1849"/>
-      <point x="453" y="1910"/>
-      <point x="512" y="1910" type="qcurve" smooth="yes"/>
-      <point x="567" y="1910"/>
-      <point x="633" y="1845"/>
-      <point x="633" y="1792" type="qcurve" smooth="yes"/>
-      <point x="633" y="1735"/>
-      <point x="571" y="1674"/>
-      <point x="512" y="1674" type="qcurve" smooth="yes"/>
-      <point x="457" y="1674"/>
+      <point x="391" y="1809" type="qcurve" smooth="yes"/>
+      <point x="391" y="1883"/>
+      <point x="472" y="1963"/>
+      <point x="550" y="1963" type="qcurve" smooth="yes"/>
+      <point x="622" y="1963"/>
+      <point x="709" y="1878"/>
+      <point x="709" y="1809" type="qcurve" smooth="yes"/>
+      <point x="709" y="1734"/>
+      <point x="628" y="1654"/>
+      <point x="550" y="1654" type="qcurve" smooth="yes"/>
+      <point x="478" y="1654"/>
       <point x="391" y="1739"/>
     </contour>
   </outline>
