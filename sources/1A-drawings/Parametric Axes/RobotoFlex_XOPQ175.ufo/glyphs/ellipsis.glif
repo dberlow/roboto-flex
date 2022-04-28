@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ellipsis" format="2">
-  <advance width="1741"/>
+  <advance width="2032"/>
   <unicode hex="2026"/>
   <outline>
     <component base="period"/>
-    <component base="period" xOffset="581"/>
-    <component base="period" xOffset="1162"/>
+    <component base="period" xOffset="678"/>
+    <component base="period" xOffset="1356"/>
   </outline>
   <lib>
     <dict>
