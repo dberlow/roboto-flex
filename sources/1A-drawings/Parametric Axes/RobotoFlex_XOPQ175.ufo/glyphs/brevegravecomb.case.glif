@@ -19,10 +19,10 @@
       <point x="735" y="1862"/>
     </contour>
     <contour>
-      <point x="565" y="1950" type="line"/>
-      <point x="182" y="2136" type="line"/>
-      <point x="289" y="2299" type="line"/>
-      <point x="643" y="2066" type="line"/>
+      <point x="566" y="1950" type="line"/>
+      <point x="154" y="2094" type="line"/>
+      <point x="341" y="2382" type="line"/>
+      <point x="644" y="2066" type="line"/>
     </contour>
   </outline>
 </glyph>
